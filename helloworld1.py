@@ -1,0 +1,5 @@
+print("Hello@world.com ))")
+a = input("Введите своё имя!\n")
+print("Hello, " + a + "/n/n")
+print("Первая проба для Git!")
+print("А теперь новое изменение файла Helloworld1.py")
